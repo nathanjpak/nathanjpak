@@ -1,16 +1,23 @@
-## Hi there 👋
+## About Me
 
-<!--
-**nathanjpak/nathanjpak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Nathan Pak and I am a software engineer based in California. I have been working professionally in the software industry since 2023 after transitioning from a career in education. I began my career working primarily with Front End focused web technologies (like React), but I eventually expanded my expertise to include backend engineering, distributed systems, developer tooling, and AI integrations. I am currently pursuing a M.S. in Computer Science at Boston University because of my interest in AI development.
 
-Here are some ideas to get you started:
+## Technologies
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+This list only includes technologies I've worked with in professional settings and excludes things I've used for education and personal projects.
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js,ts,python,java" />
+  </a>
+</p>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=nodejs,react" />
+  </a>
+</p>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=docker,git" />
+  </a>
+</p>
