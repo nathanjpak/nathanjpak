@@ -4,7 +4,7 @@ My name is Nathan Pak and I am a software engineer based in California. I have b
 
 ## Technologies
 
-This list only includes technologies I've worked with in professional settings and excludes things I've used for education and personal projects.
+This list only includes some of the technologies I've worked with in professional settings and excludes things I've used for education and personal projects.
 
 <p align="center">
   <a href="https://skillicons.dev">
